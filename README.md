@@ -4,7 +4,7 @@ A Flutter mobile application ehich brings the magic of Neural Style Transfer to 
 
 ### Demo
 Choose a content image that you want to style using a style image and watch the magic happen
-Here, we choose the cat as our content, and the bubbles as our style
+Here, we choose the cat and some pictures of me as our content, and the bubbles, flowers and the funky plant as our style
 
 ![image](https://user-images.githubusercontent.com/75247817/144189465-c8b792b0-3aa7-4b8d-9497-b421a38cc9e2.png)
 
