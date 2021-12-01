@@ -8,6 +8,9 @@ Here, we choose the cat as our content, and the bubbles as our style
 
 ![image](https://user-images.githubusercontent.com/75247817/144189465-c8b792b0-3aa7-4b8d-9497-b421a38cc9e2.png)
 
+![image](https://user-images.githubusercontent.com/75247817/144194464-3274256a-da39-4b8b-88c2-8fbd22b48497.png)
+
+![image](https://user-images.githubusercontent.com/75247817/144194516-ab66b324-71d4-48a9-aa21-2bdc7fb897e0.png)
 
 ## Getting Started
 
